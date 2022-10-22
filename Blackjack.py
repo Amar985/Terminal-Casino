@@ -403,3 +403,5 @@ while game_on:
             game_on = False
             print("\nThank you for playing BLACKJACK")
 
+            
+# by Amar Kumar
