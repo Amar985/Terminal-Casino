@@ -1,4 +1,4 @@
-# by Amar Kumar
+#by Amar Kumar
 
 import random
 
